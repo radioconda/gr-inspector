@@ -55,7 +55,6 @@ requirements:
     # Add/remove runtime dependencies here
     - gnuradio-qtgui
     - pyqt
-    - {{ pin_compatible('qwt', max_pin='x.x') }}
 
 test:
   commands:
