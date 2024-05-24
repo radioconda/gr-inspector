@@ -27,7 +27,7 @@ gnuradio_extra_pin:
 macos_machine:
 - x86_64-apple-darwin13.4.0
 numpy:
-- '1.22'
+- '1.26'
 pin_run_as_build:
   python:
     min_pin: x.x
@@ -35,7 +35,7 @@ pin_run_as_build:
 pyqt:
 - '5.15'
 python:
-- 3.9.* *_cpython
+- 3.12.* *_cpython
 qt_main:
 - '5.15'
 spdlog:
